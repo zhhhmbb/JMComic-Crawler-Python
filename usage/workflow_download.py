@@ -3,11 +3,10 @@ from jmcomic.cl import JmcomicUI
 
 # 下方填入你要下载的本子的id，一行一个，每行的首尾可以有空白字符
 jm_albums = '''
-JM287650
-JM581952
-JM261983
-JM252810
-JM258344
+JM279430
+JM146458
+JM232696
+JM215435
 '''
 
 # 单独下载章节
